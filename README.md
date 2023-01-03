@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="Secret Word" src=".github/secret_word" width="100%">
+  <img alt="Secret Word" src=".github/secret_word.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -30,4 +30,4 @@ Este projeto é um jogo de adivinhação de palavras, muito semelhante aos que s
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://to-do-list-ashy-eight.vercel.app/).
+Você pode visualizar o layout do projeto através [DESSE LINK](https://secret-word-tawny.vercel.app/).
